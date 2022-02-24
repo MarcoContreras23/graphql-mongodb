@@ -27,7 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 Project done in nestjs with connection to mongodb database with docker
 
-Generate project documentation using the following command  npx @compodoc/compodoc -p tsconfig.json -s and Open your browser and navigate to http://localhost:8080 And navigate to localhost:3000/graphql to use Playground 
+Generate project documentation using the following command  npx @compodoc/compodoc -p tsconfig.json -s and Open your browser and navigate to http://localhost:8080 And navigate to http://localhost:3000/graphql to use Playground 
 
 ## Installation
 
